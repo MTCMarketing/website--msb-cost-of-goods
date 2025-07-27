@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslap_kommerce_web=self.webpackChunkslap_kommerce_web||[]).push([[849],{8101:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var a=n(5937);function u(){return React.createElement("button",{onClick:async()=>{await a.N.auth.signOut(),window.location.reload()}},"🔓 Logout")}}}]);
+//# sourceMappingURL=component---src-pages-logout-tsx-9285e89e2f7f7b6f196a.js.map
